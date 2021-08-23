@@ -1,5 +1,6 @@
 # Pissu-Bota
-
+  Pissu bota is a very simple discord bot which I developed for fun. It will respond to specific words in your messages which you send in the discord chat. You can add, view, delete the responses as you wish using the commands also the respondings of the bot can be turned on or off using a simple command.</br>
+  Also using a specific command you can send some inspirational quotes into the chat.
 # Basic commands
   - $new : Add new phrase to your bot's db
   - $delete : Delete existing phrase
